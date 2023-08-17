@@ -7,9 +7,7 @@ SOLID PRINCIPLES
 
  ➡️ Open Closed
     Classes should be open for extension,
-    closed for modification.
-
-    In other words, you should not have to rewrite
+    closed for modification.In other words, you should not have to rewrite
     an existing class for implementing new features.
 
  ➡️ Liskov Substitution
